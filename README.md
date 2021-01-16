@@ -1,2 +1,1 @@
-# hello-world
-I am an alien.
+print("Hello World")
